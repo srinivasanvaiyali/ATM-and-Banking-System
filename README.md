@@ -1,8 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212222043008
 # Name: SRINIVASAN V
-# Date: 
-
 
 # AIM:
 To develop the ATM and Banking System using Star UML
